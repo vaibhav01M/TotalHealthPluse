@@ -1,0 +1,66 @@
+# department
+
+department name, neurology
+department description, all about brain and head
+
+
+
+# Doctor
+
+name,Viru Sahastrabuddhe
+email,virushastrabuddhe@gmail.com
+password,virus
+address,PEC New Delhi
+phone,9898989898
+department,Plastic Surgery
+profile,Sergeon
+
+
+# patient
+
+name,Tulsidas Pandit
+email,tulsidas_pandit@gmail.com
+password,tulsidas@123
+address,Kashi
+phone,8989898989
+sex,male
+birthdate,01/01/1950
+age,68
+bloodgroup,A+
+
+# Nurse
+
+name,Anitha B
+email,anitha_b@gmail.com
+password,anitha@123
+address,Thiruananthpuram
+phone,8899889988
+
+# phoarmacist
+
+name,Aniket Mali
+email,aniket_mali@gmail.com
+password,aniket_mali@123
+address,Indore
+phone,9876543210
+
+# laboratorist,eo
+
+name,Shantaram Ghanekar
+email,shantaram_ghanekar@gmail.com
+password,Shantaram@123
+address,Nashik
+phone,7788995544
+
+#accountant
+
+name,Jyoti Pawar
+email,jyoti_pawar@gmail.com
+password,jyoti@123
+address,bhopal
+phone,9879879871
+
+
+
+
+
